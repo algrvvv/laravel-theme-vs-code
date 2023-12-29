@@ -1,0 +1,22 @@
+{
+  "name": "laravel-theme",
+  "displayName": "Laravel Theme",
+  "description": "Laravel theme!",
+  "version": "0.0.1",
+  "publisher": "LaravelTheme",
+  "engines": {
+    "vscode": "^1.85.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Laravel theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Laravel theme-color-theme.json"
+      }
+    ]
+  }
+}

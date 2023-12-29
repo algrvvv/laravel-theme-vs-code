@@ -812,7 +812,9 @@
         },
         {
             "scope": [
-                "punctuation.section.embedded.begin.php"
+                "punctuation.section.embedded.begin.php",
+                "punctuation.section.embedded.end.php",
+                "punctuation.section.embedded.end.php source.php",
             ],
             "settings": {
                 "foreground": "#FF5572",

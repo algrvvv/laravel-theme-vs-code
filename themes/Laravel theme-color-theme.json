@@ -1236,6 +1236,24 @@
         },
         {
             "scope": [
+                "punctuation.definition.variable.php"
+            ],
+            "settings": {
+                "foreground": "#89DDFF"
+            }
+        },
+        {
+            "scope": [
+                "keyword.control.return.php",
+                "keyword.other.new.php",
+                "storage.type.function.php"
+            ],
+            "settings": {
+                "foreground": "#E27979"
+            }
+        },
+        {
+            "scope": [
                 "entity.name.tag.css",
                 "meta.property-list.scss entity.name.tag.css"
             ],

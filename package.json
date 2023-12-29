@@ -7,6 +7,17 @@
   "engines": {
     "vscode": "^1.85.0"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/algrvvv/laravel-theme-vs-code"
+  },
+  "keywords": [
+    "laravel",
+    "theme",
+    "dark",
+    "laraveltheme",
+    "laravel theme"
+  ],
   "categories": [
     "Themes"
   ],
